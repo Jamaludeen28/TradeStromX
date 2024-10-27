@@ -1,0 +1,26 @@
+{
+  "tradingPairs": [
+    "OAX/USDT",
+    "KP3R/USDT",
+    "AKRO/USDT",
+    "CR/VBTC",
+    "IQ/USDT"
+  ],
+  "minProfitPercentage": 0.1,
+  "tradeAmountUSDT": 30,
+  "mintradeamountusdt": 5,
+  "maxRetries": 3,
+  "retryDelay": 1000,
+  "binanceFee": 0.075,
+  "bitgetFee": 0.08,
+  "logFile": "arbitrage_bot.log",
+  "balanceCheckInterval": 10,
+  "simulationMode": false,
+  "stopLossPercentage": 1,
+  "takeProfitPercentage": 2,
+  "binanceApiKey": "EEPxpd3iPPhoSHpSOSqyuEvjTK1BFFHVbQZAPd037sdDm8MDc7Zdaz1lbxSykW9t",
+  "binanceSecretKey": "URSCdAzBe8av93JWdWkMMz6njy0EHcpEsffOkJNJufUKZGl7dhuiQw1xn3r6J7wo",
+  "bitgetApiKey": "bg_870506e71fa7eb4d3082e3061f0147f5",
+  "bitgetSecretKey": "6b2e61a26f86dd8b2a23784408520100c5f090b0f06a6c4589153ee752ae58ed",
+  "bitgetPassphrase": "Jamaludeen2809"
+}
